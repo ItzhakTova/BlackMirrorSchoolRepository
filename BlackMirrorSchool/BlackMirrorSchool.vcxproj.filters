@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\School">
+      <UniqueIdentifier>{a57d9616-4bc5-423b-999e-e7a55f51d62c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Person">
+      <UniqueIdentifier>{34d4af15-7838-473e-bd71-43f7ce304533}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Teacher">
+      <UniqueIdentifier>{b47d9dc9-81f7-42b8-adf0-374cb8bfe546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Student">
+      <UniqueIdentifier>{cc58190a-b0f1-4836-bcc6-c6d50fbde6fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LearningClass">
+      <UniqueIdentifier>{d15e3774-ad05-4c02-b251-6c34b0a82d25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BlackMirrorSchool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="School\School.cpp">
+      <Filter>Source Files\School</Filter>
+    </ClCompile>
+    <ClCompile Include="Person\Person.cpp">
+      <Filter>Source Files\Person</Filter>
+    </ClCompile>
+    <ClCompile Include="Teacher\Teacher.cpp">
+      <Filter>Source Files\Teacher</Filter>
+    </ClCompile>
+    <ClCompile Include="Student\Student.cpp">
+      <Filter>Source Files\Student</Filter>
+    </ClCompile>
+    <ClCompile Include="LearningClass\LearningClass.cpp">
+      <Filter>Source Files\LearningClass</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="School\School.h">
+      <Filter>Source Files\School</Filter>
+    </ClInclude>
+    <ClInclude Include="Person\Person.h">
+      <Filter>Source Files\Person</Filter>
+    </ClInclude>
+    <ClInclude Include="Teacher\Teacher.h">
+      <Filter>Source Files\Teacher</Filter>
+    </ClInclude>
+    <ClInclude Include="Student\Student.h">
+      <Filter>Source Files\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="LearningClass\LearningClass.h">
+      <Filter>Source Files\LearningClass</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
