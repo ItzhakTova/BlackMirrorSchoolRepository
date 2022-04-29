@@ -1,0 +1,15 @@
+﻿  BlackMirrorSchoolServer.cpp
+  LearningClass.cpp
+  Person.cpp
+  School.cpp
+C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\BlackMirrorSchoolServer\LearningClass\LearningClass.cpp(62,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\BlackMirrorSchoolServer\School\School.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\BlackMirrorSchoolServer\School\School.cpp(28,37): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\BlackMirrorSchoolServer\School\School.cpp(38,42): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\BlackMirrorSchoolServer\School\School.cpp(86,37): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\BlackMirrorSchoolServer\School\School.cpp(130,37): warning C4018: '>=': signed/unsigned mismatch
+  Student.cpp
+  Teacher.cpp
+  Generating Code...
+C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\BlackMirrorSchoolServer\School\School.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+  BlackMirrorSchoolServer.vcxproj -> C:\Users\My-PC\VisualStudioProjects\BlackMirrorSchool\Debug\BlackMirrorSchoolServer.exe
